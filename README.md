@@ -1,4 +1,4 @@
-# Projet 2 : Classification d'URLs de Phishing via Machine Learning
+# Projet : Classification d'URLs de Phishing via Machine Learning
 
 ## 1. Objectif du Projet
 
